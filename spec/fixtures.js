@@ -32,7 +32,7 @@ var stringifiableObjects = [
 // undefined values, so you should skip those key/value pairs.
 unstringifiableValues = [
   {
-    'functions': function() {},
+    'functions': function() {}, 
     'undefined': undefined
   }
 ];
